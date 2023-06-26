@@ -9,7 +9,7 @@ Hello, my name is Christian Alameda! I am a Computer Science student who is look
 - Associate of Arts Degree in General Studies with Emphasis in Language and Rationality, 2022
 
 ## Contact Details
-- Phone: (209) 602-1093
+- Phone: (209) 496-5686
 - Preferred Email: [cdalamed@gmail.com](cdalamed@gmail.com)
 - Stanislaus State University Email:  [calameda@csustan.edu](calameda@csustan.edu)
 - MJC Student Email: [christian956514@my.yosemite.edu](christian956514@my.yosemite.edu)
