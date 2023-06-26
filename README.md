@@ -170,5 +170,4 @@ class Menu(menuAbstract):
 
 ```
 For more information on this above project you can visit the github repository [here](https://github.com/ChristianAlameda/
-Madden23PriceGager). Again, other Projects and their repositories can be found [here](https://github.com/
-ChristianAlameda?tab=repositories).
+Madden23PriceGager). Again, other Projects and their repositories can be found [here](https://github.com/ChristianAlameda?tab=repositories).
