@@ -67,6 +67,7 @@ int main() {
     return 0;
 }
 ```
+Developed a menu creation website that allowed restaurants to create and edit their menus so that they can print them all out and have them the way the want. I was partnered with two other partners for this project, Yahir and Yumong. They were both tremendous partners and I'm lucky to have them as good friends and colleagues.
 ```python
 import csv
 from entry import Entry
